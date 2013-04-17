@@ -33,7 +33,7 @@ define(['../../../_amd/core'], function(wink) {
 	 *   thresholdBottom: 5
 	 * });
 	 * 
-	 * @compatibility Iphone OS3, Iphone OS4, Android 2.3, Android 3.0, Android 3.1, BlackBerry 6, BlackBerry 7, Bada 1.0
+	 * @compatibility Iphone OS3, Iphone OS4, Android 2.3, Android 3.0, Android 3.1, BlackBerry 6, BlackBerry 7, BB10, Bada 1.0
 	 * 
 	 * @winkVersion 1.4
 	 * 
